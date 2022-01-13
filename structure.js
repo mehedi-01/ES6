@@ -1,0 +1,1 @@
+const person = { name : 'Angel', age: 15, job :'bcb', Address: 'usa', phone: '14243290', friend: 'harry'};
